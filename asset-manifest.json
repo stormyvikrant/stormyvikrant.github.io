@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.89933ec3.css",
-    "main.js": "/static/js/main.f16586f1.js",
+    "main.css": "/static/css/main.2caabe01.css",
+    "main.js": "/static/js/main.9c0a194d.js",
+    "static/media/foodappImg.png": "/static/media/foodappImg.5a9ae2a27a3dc6b265fd.png",
     "static/media/vikrant.jpg": "/static/media/vikrant.d353463584e712985f5c.jpg",
     "static/media/skinstoreclone.png": "/static/media/skinstoreclone.8e0f81553fec387836ba.png",
     "static/media/naykamanclone.png": "/static/media/naykamanclone.d829f0a8688bfee5473c.png",
@@ -23,11 +24,11 @@
     "static/media/materialui.png": "/static/media/materialui.bf1399d376297fcc515d.png",
     "static/media/html.png": "/static/media/html.1525117dcf63347d2f6d.png",
     "index.html": "/index.html",
-    "main.89933ec3.css.map": "/static/css/main.89933ec3.css.map",
-    "main.f16586f1.js.map": "/static/js/main.f16586f1.js.map"
+    "main.2caabe01.css.map": "/static/css/main.2caabe01.css.map",
+    "main.9c0a194d.js.map": "/static/js/main.9c0a194d.js.map"
   },
   "entrypoints": [
-    "static/css/main.89933ec3.css",
-    "static/js/main.f16586f1.js"
+    "static/css/main.2caabe01.css",
+    "static/js/main.9c0a194d.js"
   ]
 }
